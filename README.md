@@ -5,3 +5,5 @@ https://github.com/benjaminmerchin/matchnsolve/blob/master/matchnsolve-logo.png
 ![alt text][logo]
 
 [logo]: https://github.com/benjaminmerchin/matchnsolve/blob/master/matchnsolve-logo.png "Logo Title Text 2"
+
+![alt text](https://github.com/benjaminmerchin/matchnsolve/blob/master/matchnsolve-logo.png "Logo Title Text 1")
